@@ -86,6 +86,4 @@ src/
 
 ![](./pictures/cam.jpg)
 
-<video id="video" controls="" preload="none" poster="作者(图片地址)">
-<source id="mp4" src="./pictures/actual.mp4" type="video/mp4">
-</video>
+具体实操视频在 `/pictures/actual.mp4`
