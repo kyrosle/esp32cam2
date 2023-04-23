@@ -1,10 +1,7 @@
-// use std::{ptr::copy_nonoverlapping, sync::Arc};
-
 use core::ptr;
 use std::{ffi::CString, thread, time::Duration};
 
 use anyhow::Result;
-// use camera::camera_init;
 use esp_idf_hal::prelude::Peripherals;
 use esp_idf_sys as _;
 use network::wifi;
